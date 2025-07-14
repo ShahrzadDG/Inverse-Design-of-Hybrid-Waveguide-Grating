@@ -16,5 +16,5 @@ These files contain the reflection spectra as 2D matrices with:
 
 Each entry in the matrix represents the reflection value (between 0 and 1) for a specific combination of wavelength and incident angle, corresponding to the structural parameters provided in the input file.
 
-![Alt text](https://github.com/ShahrzadDG/Inverse-Design-of-Hybrid-Waveguide-Grating/blob/main/Data_samples/output_example.PNG?raw=true)
+![output file example](https://github.com/ShahrzadDG/Inverse-Design-of-Hybrid-Waveguide-Grating/blob/main/Data_samples/output_example.PNG?raw=true)
 
