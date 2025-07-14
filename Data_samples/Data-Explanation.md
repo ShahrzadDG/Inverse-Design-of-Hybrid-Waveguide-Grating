@@ -1,4 +1,5 @@
 Dataset Description
+All the data files used in this research are provided inside the Data.zip archive.
 
 Input Files:
 Each input file is named in the format: Input_#_3col.csv
@@ -17,4 +18,6 @@ These files contain the reflection spectra as 2D matrices with:
 Each entry in the matrix represents the reflection value (between 0 and 1) for a specific combination of wavelength and incident angle, corresponding to the structural parameters provided in the input file.
 
 ![output file example](https://github.com/ShahrzadDG/Inverse-Design-of-Hybrid-Waveguide-Grating/blob/main/Data_samples/output_example.PNG?raw=true)
+
+
 
