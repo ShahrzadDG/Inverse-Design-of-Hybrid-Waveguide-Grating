@@ -2,7 +2,6 @@ Dataset Description
 All the data files used in this research are provided inside the Data.zip archive.
 
 Input Files:
-
 Each input file is named in the format: Input_#_3col.csv
 
 These files contain 3 columns, each corresponding to a structural parameter of the device:
@@ -12,7 +11,6 @@ These files contain 3 columns, each corresponding to a structural parameter of t
 
 
 Output Files:
-
 Each output file is named in the format: output_#.csv
 
 These files contain the reflection spectra as 2D matrices with:
